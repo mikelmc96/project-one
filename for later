@@ -1,0 +1,19 @@
+ <div id="Code">
+        <h5>Code</h5>
+        <button class="100"><a href="code100.html">100</a></button>
+        <button class="200"><a href="code200.html">200</a></button>
+        <button class="300"><a href="code300.html">300</a></button>
+        <button class="400"><a href="code400.html">400</a></button>
+        <button class="500"><a href="code500.html">500</a></button>
+        
+    </div>
+
+    <div id="Mystery">
+        <h6>Mystery???</h6>
+        <button class="100"><a href="MQ.html">??????</a></button>
+        <button class="200"><a href="MQ2.html">??????</a></button>
+        <button class="300"><a href="MQ3.html">?????</a></button>
+        <button class="400"><a href="MQ4.html">??????</a></button>
+        <button class="500"><a href="MQ5.html">??????</a></button>
+        
+    </div>
